@@ -1,17 +1,12 @@
-# Week 1 - Challenge 2
+# Week 1 - Challenge 3
 
-Ejercicio de Replicación HTML
-
-En este ejercicio se te proporcionarán enlaces a algunas páginas web.
-Tu tarea consiste en replicar la estructura básica de estas páginas utilizando HTML.
-Sin embargo, hay una regla importante: no se permite el uso de herramientas de inspección del navegador como "Inspeccionar" o "F12".
-La idea es que practiques la escritura manual de código HTML y que te enfoques en comprender y aplicar la semántica correcta.
-
-**Recursos:**
-
-- [Spotify](https://www.spotify.com/es/premium/)
-- [Angular](https://angular.io/)
-- [Compramos tu coche](https://www.compramostucoche.es/)
-- [El País](https://elpais.com/)
-- [Filmin](https://www.filmin.es/)
-- [Magic: The Gathering](https://magic.wizards.com/es)
+Maquetación Lista de la compra
+Tendrás que maquetar el HTML y CSS de una aplicación web para gestionar la lista de la compra. No debes añadir JS, por lo que no existirá ninguna funcionalidad dinámica
+Hay que maquetar dos páginas, y la navegación entre ella
+una con la lista de artículos y
+otra con un formulario de edición de un artículo.
+La aplicación sólo se va a ver en móviles, no nos interesa cómo queda en dimensiones grandes.
+Utiliza HTML semántico y validado con el validador
+Para el CSS utiliza el menor número de clases posibles. Como máximo a nivel de main y section. Aprovecha la potencia de otros selectores.
+Valida también el CSS. Después incorpora el logo que te ofrecen en un footer de las páginas, del mismo aspecto que el header.
+En el challenge se ponen a prueba los conocimientos previos de CSS, que serán revisados con detalle en la siguiente sesión. Si conoces flex, puedes utilizarlo, pero también puedes maquetar con otros displays.
